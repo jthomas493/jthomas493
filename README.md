@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jthomas493
 - 👀 I’m interested in developing machine learning applications and AI pipelines
-- 🌱 I’m currently learning Data Science at NorthWestern University
+- 🌱 I’m currently looking for opportunities in web development
 - 💞️ I’m looking to collaborate on Deep Learning applications for enterprise uses
 
 <!---
